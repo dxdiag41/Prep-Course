@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables :
+    Son representaciones de valores o objetos.
+
+ * Strings
+    Son simbolos como letras, signos o incluso numeros.
+
+ * Funciones (argumentos, `return`)
+    Son bloques que nos ayudan a realizar una accion, a las funciones se le pueden o no pasar argumentos 
+    y pueden o no retornar algun valor, dependendiendo de como sean declaradas.
+
+ * Declaraciones `if`
+    Son condicionales, si se cumple la condicional se realiza una accion.
+
+ * Valores booleanos (`true`, `false`)
+    Una variable o valor booleano solo puede tener dos valores: verdadero o falso.
