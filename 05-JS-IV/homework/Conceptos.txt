@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+        Son representaciones de objetos, cada objeto tiene sus caracteristicas (atributos) y metodos (acciones).
+
+	* Propiedades
+        Son las caracteristicas de un objeto, ejemplo: el objeto persona tiene como propiedades el nombre y la edad.
+
+	* Métodos
+        Son acciones que puede tener un objeto, ejemplo: el objeto persona puede tener un metodo llamado "hola()".
+
+	* Bucle `for…in`
+        Es una forma de recorrer todas las propiedades  y metodos de un objeto.
+
+	* Notación de puntos vs notación de corchetes
+        La notacion de puntos nos es util cuando conocemos la clave o nombre de la propiedad, la notacion de corchetes se usa cuando no conocemos el nombre
+        o la clave de la propiedad del objeto.
